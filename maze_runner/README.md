@@ -57,6 +57,8 @@ Aqui está um passo a passo de como usar o Codespaces para desenvolver a partir 
 
 6. Para compilar o código, clique no botão "Build" da barra inferior. Essa barra também tem ícones para debugar (ícone "bug") e executar (ícone "play") o projeto.
 
+# Solução do exercício 1
+
 ## Para rodar a solução em C++ do exercício é necessário ter o GCC instalado:
 
 #### No Windows: Instale o MinGW ou o WSL (Windows Subsystem for Linux) para ter acesso ao GCC.
