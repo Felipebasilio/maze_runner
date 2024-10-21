@@ -96,5 +96,3 @@ Rodar:  ``` javac MazeSolver.java ```
 e depois rodar: ``` java MazeSolver ```
 
 ### Caso deseje trocar o labirinto em específico é necessário trocar o nome do arquivo lido dentro do arquivo MazeSolver.java e depois refazer a etapa "Em seguida".
-# maze_runner
-# maze_runner
